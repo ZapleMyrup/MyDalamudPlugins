@@ -5,14 +5,14 @@
   "AssemblyVersion": "1.5.0.17",
   "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
+  "RepoUrl": "https://github.com/ZapleMyrup/XIVComboPlugin",
   "DalamudApiLevel": 10,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "ImageUrls": [],
-  "IconUrl": "https://raw.githubusercontent.com/daemitus/XIVComboPlugin/master/res/icon.png",
+  "IconUrl": "https://raw.githubusercontent.com/ZapleMyrup/XIVComboPlugin/master/res/icon.png",
   "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
   "AcceptsFeedback": true
 }
