@@ -10,13 +10,13 @@
         "ApplicableVersion": "any",
         "DalamudApiLevel": 10,
         "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/daemitus/XIVComboPlugin/master/res/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/ZapleMyrup/XIVComboPlugin/master/res/icon.png",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "DownloadLinkInstall": "https://github.com/ZapleMyrup/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "DownloadLinkTesting": "https://github.com/ZapleMyrup/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/ZapleMyrup/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1720165236"
     }
